@@ -21,3 +21,8 @@
     font-weight: 400;
     line-height: 18px;
 }
+@media (max-width:900px){
+    .footer-block-item{
+    width: 50%;
+}
+}
